@@ -2,7 +2,7 @@
  
 run ```python3 main.py```
 
-Demo:
+Demo:<br>
 ![](https://raw.githubusercontent.com/jyjblrd/inverseKin/main/demo.gif)
 
 Kinematic Model:
